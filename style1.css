@@ -1,0 +1,69 @@
+.rusul{
+	direction:rtl;
+} 
+.myimportant{direction:rtl;
+ padding-bottom:0px;
+ padding-top:50px;
+}
+.myparter{
+	background-image:url("texture6.jpg");
+	padding-:10px;
+}
+.sss{
+padding-left:10px;}
+
+.footer{padding-top:10px;
+}             
+.myteam{
+	text-align:center;
+	padding-bottom:90px;
+	
+	padding-top:10px;
+	background-image:url("texture14.jpg");
+	
+	
+}
+.complain{
+text-align:center;
+background-image:url("texture2.jpg");
+padding-top:20px;
+padding-bottom:50px;
+}
+
+}
+.myconnection{
+	text-align:center;
+	padding-top:40px;
+	padding-bottom:50px;
+	
+	
+}
+.news{
+	text-align:center;
+	
+	background-color:#ffeaa7;
+}
+
+
+.future{
+	background-color:#00cec9,#ffeaa7;
+}
+
+
+
+
+
+.car{
+	color:#2d3436
+}
+.mydream{   padding: 7px 8px 9px;
+    display: block;
+    border-right: 7px #2d3436 solid;
+    background: #00b894;
+    color: #2d3436;
+    border-bottom: 1px black dotted;
+    font: 20px dkb;
+    border-radius: 5px 5px 0 0;
+    text-shadow: 0 1px 1px #ffeaa7;
+ margin-bottom: 16px;}
+ 
